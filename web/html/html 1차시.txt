@@ -1,8 +1,0 @@
-
-웹 파일 열기 : 웹에서 control + O 
-
-태그 : 어떤 것인지 은유하기
-<strong>'굵게 쓸 내용'<\strong>
-<u>'및줄 칠 내용'<\u>
-<br>
-<p> paragraph
